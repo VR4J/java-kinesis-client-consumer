@@ -1,6 +1,6 @@
 # java-kinesis-client-consumer
 
-Describing blogpost: https://blog.vreijsenj.nl/2021/12/28/creating-a-christmas-family-quiz/
+Describing blogpost: https://blog.vreijsenj.nl/2022/...
 
 ## Technologies
 * Java 17
