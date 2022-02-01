@@ -1,6 +1,6 @@
 # java-kinesis-client-consumer
 
-Describing blogpost: https://blog.vreijsenj.nl/2022/...
+Describing blogpost: https://blog.vreijsenj.nl/2022/02/01/using-the-java-kinesis-client-library-with-localstack/
 
 ## Technologies
 * Java 17
